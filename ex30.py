@@ -1,3 +1,6 @@
+#__coding:utf-8__
+''' else 和 if '''
+
 people = 30
 cars = 40
 buses = 15
