@@ -1,23 +1,13 @@
+# /usr/bin/env python
 # __coding: utf-8__
-# /usr/local/Cellar python
-''' this is test module '''
 
-import sys
+''' The games maps '''
 
-''' 全局变量 '''
+def GoldRoom():
+	print 'Its GoldRoom.'
 
-class maps(object):
-	''' The games maps '''
-	def __init__(self):
-		pass
-
-	def GoldRoom(self):
-		print 'Its GoldRoom.'
-		pass
-
-	def KoiPondRoom(self):
-		print 'Its KoiPondRoom.'
-		pass
+def KoiPondRoom():
+	print 'Its KoiPondRoom.'
 
 def test():
 	print "maps module test."

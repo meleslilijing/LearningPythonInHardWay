@@ -1,5 +1,5 @@
 # __coding:utf-8__
-'''函数可以返回东西'''
+
 
 def add(a, b):
 	print "ADDING %d + %d" % (a, b)
